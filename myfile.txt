@@ -1,2 +1,3 @@
 Azi e Miercuri si sunt la lucru.
 Lucrez la ATOS.
+Si am modificat fisierul in Cloud
